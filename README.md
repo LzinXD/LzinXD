@@ -6,7 +6,7 @@
 
 #
 
-Meu nome é Luis, sou um jovem em busca de oportunidades na área de tecnologia. Tenho formação técnica na área de TI e atualmente curso Análise e Desenvolvimento de Sistemas na UNDB - Unidade de Ensino Superior Dom Bosco. Possuo experiência com desenvolvimento web e banco de dados, sempre buscando aprender novas tecnologias e aprimorar minhas habilidades na área.
+Meu nome é Luis, Tenho formação técnica na área de TI e atualmente curso Análise e Desenvolvimento de Sistemas na UNDB - Unidade de Ensino Superior Dom Bosco. Possuo experiência com desenvolvimento web e banco de dados, sempre buscando aprender novas tecnologias e aprimorar minhas habilidades na área.
 #
 
 <h3 align="left">Minhas Redes</h3>
